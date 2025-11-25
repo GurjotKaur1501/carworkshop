@@ -7,6 +7,8 @@ ArtifactId: carworkshop
 
 Requirements: Java 17+, Maven
 
+Link for clone repo:https://github.com/GurjotKaur1501/carworkshop.git
+
 Build and run:
 ./run.sh
 or
